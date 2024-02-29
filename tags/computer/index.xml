@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer on Liyane Blog</title>
+    <link>https://liyane.website/tags/computer/</link>
+    <description>Recent content in Computer on Liyane Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://liyane.website/tags/computer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【原创】数字的奥秘：探索计算机领域的神奇数字</title>
+      <link>https://liyane.website/post/2024-02-29-digital/</link>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://liyane.website/post/2024-02-29-digital/</guid>
+      <description>前言 在数码繁星中，有一个宇宙，以一种对大多数人来说有点反直觉的方式运作。它不是万物之母，但肯定是现代科技之父。没错，我们要谈的是数字在计算机</description>
+    </item>
+  </channel>
+</rss>
