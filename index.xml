@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Liyane Blog</title>
-    <link>https://liyane.website/</link>
+    <link>https://lisaliyane.github.io/</link>
     <description>Recent content on Liyane Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 29 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://liyane.website/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lisaliyane.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【原创】数字的奥秘：探索计算机领域的神奇数字</title>
-      <link>https://liyane.website/post/2024-02-29-digital/</link>
+      <link>https://lisaliyane.github.io/post/2024-02-29-digital/</link>
       <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://liyane.website/post/2024-02-29-digital/</guid>
+      <guid>https://lisaliyane.github.io/post/2024-02-29-digital/</guid>
       <description>前言 在数码繁星中，有一个宇宙，以一种对大多数人来说有点反直觉的方式运作。它不是万物之母，但肯定是现代科技之父。没错，我们要谈的是数字在计算机</description>
     </item>
     <item>
       <title>Welcome to Liyane Blog</title>
-      <link>https://liyane.website/2024/02/29/hello-world/</link>
+      <link>https://lisaliyane.github.io/2024/02/29/hello-world/</link>
       <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://liyane.website/2024/02/29/hello-world/</guid>
+      <guid>https://lisaliyane.github.io/2024/02/29/hello-world/</guid>
       <description> “Yeah It&amp;rsquo;s on. ”&#xA;Hello World! </description>
     </item>
     <item>
       <title></title>
-      <link>https://liyane.website/about/</link>
+      <link>https://lisaliyane.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://liyane.website/about/</guid>
+      <guid>https://lisaliyane.github.io/about/</guid>
       <description>About Me I am software engineer and good at Azure, DevOps, and software developement. I am intrested in AGI as well.&#xA;I am happy and proud mother of a nine years old boy.</description>
     </item>
     <item>
       <title></title>
-      <link>https://liyane.website/notes/</link>
+      <link>https://lisaliyane.github.io/notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://liyane.website/notes/</guid>
+      <guid>https://lisaliyane.github.io/notes/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://liyane.website/search/placeholder/</link>
+      <link>https://lisaliyane.github.io/search/placeholder/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://liyane.website/search/placeholder/</guid>
+      <guid>https://lisaliyane.github.io/search/placeholder/</guid>
       <description></description>
     </item>
     <item>
       <title>Posts Archive</title>
-      <link>https://liyane.website/archive/</link>
+      <link>https://lisaliyane.github.io/archive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://liyane.website/archive/</guid>
+      <guid>https://lisaliyane.github.io/archive/</guid>
       <description></description>
     </item>
   </channel>
